@@ -5,6 +5,7 @@
 *.so
 *.dylib
 *.php
+*.js
 
 # Test binary, built with `go test -c`
 *.test
