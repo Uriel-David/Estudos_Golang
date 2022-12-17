@@ -1,4 +1,4 @@
-module Estudos_Golang/src
+module Estudos_Golang
 
 go 1.19
 
